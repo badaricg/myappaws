@@ -2,7 +2,8 @@
 Spring Boot application code:
 
 # Deploy Application locally:
-1: Make changes to the code. \n
+```
+1: Make changes to the code.
 2: Run the below command to create jar file for the application:
   a: mvn test
   b: mvn package
@@ -29,4 +30,4 @@ Spring Boot application code:
 5: Codebuild will package the application & export jar file
 6: Docker image will be created and uploaded to ECR
 7: New ECS task will be created with new changes & the old one will be deleted.
-
+```
