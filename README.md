@@ -1,6 +1,13 @@
 # myapp
 Spring Boot application code:
 
+# Pre-requisites:
+``
+Java
+MVN
+Docker
+``
+
 # Deploy Application locally:
 ```
 1: Make changes to the code.
