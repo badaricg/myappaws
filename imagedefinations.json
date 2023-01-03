@@ -1,0 +1,6 @@
+[
+    {
+      "name": "CONTAINTER_NAME",
+      "imageUri": "REPOSITORY_URI:latest"
+    }
+  ]
