@@ -2,7 +2,7 @@
 Spring Boot application code:
 
 # Deploy Application locally:
-1: Make changes to the code.
+1: Make changes to the code. \n
 2: Run the below command to create jar file for the application:
   a: mvn test
   b: mvn package
